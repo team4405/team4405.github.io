@@ -1,17 +1,17 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/channel/UCi0BhlszJ7XfUeS_rIYgFWg/feed
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Team 4405"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/team4405
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Team 4405"
 
 - name: Facebook
   url: http://www.facebook.com/FRCteam4405
   class: icon-facebook
-  title: "Facebook"
+  title: "The Atoms Family"
   
 - name: RSS
   url: /feed.xml
