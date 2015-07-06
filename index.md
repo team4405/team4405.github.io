@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "About FRC"
     url: "about-frc"
-    text: '“The varsity sport for the mind,” FRC(<a href="https://web.archive.org/web/20141218064955/http://www.usfirst.org/roboticsprograms/frc">FIRST Robotics Challenge</a>) combines the excitement of sports with the rigor of science and technology. Students are challenged with limited time and resources to create a robot that can perform specific tasks. Learn more at the <a href="https://web.archive.org/web/20141218064955/http://www.usfirst.org/roboticsprograms/frc">FRC webpage</a>.'
+    text: '“The varsity sport for the mind,” FRC(<a href="https://web.archive.org/web/20141218064955/https://www.usfirst.org/roboticsprograms/frc">FIRST Robotics Challenge</a>) combines the excitement of sports with the rigor of science and technology. Students are challenged with limited time and resources to create a robot that can perform specific tasks. Learn more at the <a href="https://web.archive.org/web/20141218064955/https://www.usfirst.org/roboticsprograms/frc">FRC webpage</a>.'
     image: frc.jpg
 ---
 <div class="row medium-uncollapse large-collapse" style="background-color: #dbdada;">
@@ -36,7 +36,7 @@ widget-3:
 			<li>Churchill High School in Livonia on March 26-28, 2015</li>
 			<li>And hopefully, the Michigan State Championships on April 8-11, 2015</li>
 		</ul>
-		<p>For more information, go to <a href="http://www.firstinmichigan.com/">www.firstinmichigan.com</a>.</p>
+		<p>For more information, go to <a href="https://www.firstinmichigan.com/">www.firstinmichigan.com</a>.</p>
 		<p> <a class="button tiny radius" href="schedule">More ›</a></p>
     </div>
 </div>
