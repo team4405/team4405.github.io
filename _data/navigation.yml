@@ -5,6 +5,12 @@
 - title: About Us
   url: "/about/"
   side: left
+  dropdown:
+  - title: "About Us"
+    url: "/about/"
+  - title: "About FRC"
+    url: "/about-frc/"
+
 
 - title: "Sponsorship"
   url: "/sonsorship/"
@@ -14,6 +20,7 @@
     url: "/sponsorship/"
   - title: "Donations"
     url: "/donations/"
+
 - title: Competition Schedule
   url: "/schedule/"
   side: left
