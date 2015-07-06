@@ -1,0 +1,45 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Us
+  url: "/about/"
+  side: left
+
+- title: "Sponsorship"
+  url: "/sonsorship/"
+  side: left
+  dropdown:
+  - title: "Sponsorship"
+    url: "/sponsorship/"
+  - title: "Donations"
+    url: "/donations/"
+- title: Competition Schedule
+  url: "/schedule/"
+  side: left
+
+- title: Code
+  url: "/code/"
+  side: left
+  dropdown:
+  - title: "Bitbucket"
+    url: "https://bitbucket.org/FRC4405/"
+  - title: "Github"
+    url: "https://github.com/team4405"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
