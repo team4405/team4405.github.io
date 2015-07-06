@@ -6,21 +6,20 @@ permalink: "/search/"
 <div id="results">
 	
 </div>
-<script>
-var JEKYLL_POSTS = [];
-{% for post in site.posts %}
+<<script>
+	var JEKYLL_POSTS = [];
+	{% for post in site.posts %}
 	JEKYLL_POSTS.push({
 		title: "{{ post.title }}",
 		link: "{{ post.url | prepend: site.baseurl }}",
 		content: "{{ post.content | strip_newlines | strip_html }}"
 	}); 
-{% endfor %}
+    {% endfor %}
 </script>
-<script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/js/search.js"></script>
+<script src="{{ "/js/search.js" | prepend: site.baseurl }}"></script>
 <script>
 	new jekyllSearch({
 		selector: "#results",
-		properties: ["title", "content"],
-		noResultsMessage: "Sorry, no results were found"
+		properties: ["title", "content"]
 	});
 </script>
