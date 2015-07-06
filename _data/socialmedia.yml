@@ -15,5 +15,5 @@
   
 - name: RSS
   url: /feed.xml
-  class: icon-network
+  class: icon-rss
   title: "Subscribe to RSS"  

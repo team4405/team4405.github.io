@@ -32,7 +32,15 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 [![Start Video](http://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](http://www.youtube.com/watch?v=rLS-BEvlEyY)
 
 
+## Search
 
+'
+	<!--<div class="right">
+		<form action="/search" method="GET">
+		<input type="text" name="query" placeholder="Search...">
+		</form>	
+	</div>-->
+'
 
 
 
