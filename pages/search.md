@@ -1,12 +1,26 @@
 ---
 layout: page
-show_meta: false
 title: "Search"
 permalink: "/search/"
 ---
-
-{% include google_search.html %}
-
-<form style="padding-bottom: 200px;" onsubmit="google_search()" >
-  <input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
-</form>
+<div id="results">
+	
+</div>
+<script>
+var JEKYLL_POSTS = [];
+{% for post in site.posts %}
+	JEKYLL_POSTS.push({
+		title: "{{ post.title }}",
+		link: "{{ post.url | prepend: site.baseurl }}",
+		content: "{{ post.content | strip_newlines | strip_html }}"
+	}); 
+{% endfor %}
+</script>
+<script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/js/search.js"></script>
+<script>
+	new jekyllSearch({
+		selector: "#results",
+		properties: ["title", "content"],
+		noResultsMessage: "Sorry, no results were found"
+	});
+</script>
