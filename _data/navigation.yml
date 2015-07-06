@@ -30,9 +30,9 @@
   side: left
   dropdown:
   - title: "Bitbucket"
-    url: "https://bitbucket.org/FRC4405/"
+    url: "http://bitbucket.org/FRC4405/"
   - title: "Github"
-    url: "https://github.com/team4405"
+    url: "http://github.com/team4405"
 
 - title: Blog
   url: "/blog/"

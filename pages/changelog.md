@@ -21,27 +21,27 @@ permalink: "/changelog/"
 :   Added [alert-include]({{ site.url }}/documentation/#alert-embed-an-alert-in-your-content) and structured Sass-files.
 
 2015-03-25  // Video
-:   Made a new [video tutorial](https://www.youtube.com/embed/rLS-BEvlEyY)
+:   Made a new [video tutorial](http://www.youtube.com/embed/rLS-BEvlEyY)
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><iframe width="1280" height="720" src="http://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 2015-03-02 // Version 1.1
-:   Added [Foundation Reveal](https://foundation.zurb.com/docs/components/reveal.html) to the mix to show videos and content in a popup window. <a href="#" data-reveal-id="videoModal">Try it out right know :)</a>
+:   Added [Foundation Reveal](http://foundation.zurb.com/docs/components/reveal.html) to the mix to show videos and content in a popup window. <a href="#" data-reveal-id="videoModal">Try it out right know :)</a>
 
 2015-02-26 // Version 1.0
 :   OK. Let's try it. Here is *Feeling Responsive* Version 1.0, with a shiny video.
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><iframe width="1280" height="720" src="http://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 
 2015-02-25 // Version 0.99.1
-:   Added support for Google Analtics. Added `_include/next-previous-post-in-category.html` to generate links from one post in a category to another post in that same category. Example at the bottom of [Grid & Colors]({{ site.url }}/design/grid/#bottom). Added `noindex`-variable for search engine optimization ([read more](https://support.google.com/webmasters/answer/93710?hl=en)). Changed code for breadcrumb. Added [Improve-Content-Include]({{ site.url }}/documentation/#improvecontenthtml).
+:   Added support for Google Analtics. Added `_include/next-previous-post-in-category.html` to generate links from one post in a category to another post in that same category. Example at the bottom of [Grid & Colors]({{ site.url }}/design/grid/#bottom). Added `noindex`-variable for search engine optimization ([read more](http://support.google.com/webmasters/answer/93710?hl=en)). Changed code for breadcrumb. Added [Improve-Content-Include]({{ site.url }}/documentation/#improvecontenthtml).
 
 2015-02-19 // Version 0.99
 :   Yes! Now *Feeling Responsive* uses the built-in sass-support by Jekyll. Open `_sass` and dig deeper into customizing this theme using your colors, typography and so on...
 
 2015-02-18 // Version 0.98
-:   Now with author-support and [Schema.org microdata](https://schema.org). Edit author(s) in `authors.yml` and use it via front matter like `author: your_author_name`. Added [Disqus-comments]({{ site.url}}/design/comments/#comments) to the mix.
+:   Now with author-support and [Schema.org microdata](http://schema.org). Edit author(s) in `authors.yml` and use it via front matter like `author: your_author_name`. Added [Disqus-comments]({{ site.url}}/design/comments/#comments) to the mix.
 
 2015-02-17 // Version 0.97
 :   Simplicity. Reduced templates. Now there is one page/post-template with two switches via front matter to turn on metadata at the end of the page/post via `show_meta: true/false` and to add a left or right sidebar via `sidebar: left/right`. The defaults are declared in `config.yml`. I also changed the variable `description` to `teaser` because it's more logigally.
@@ -56,7 +56,7 @@ permalink: "/changelog/"
 :   Added Windows 8-Tile in `config.yml` and `header.html`. Added `_config_dev.yml` for easier local development. Use `jekyll serve --config _config.yml,_config_dev.yml` to overwrite `url`-settings of the main configuration. Added `_data/network.yml` to customize links in the footer-area. Now with 404-page and a google-powered search.
 
 2014-12-22 // Version 0.93
-:   Improved speed through the use of [webfontloader](https://github.com/typekit/webfontloader). Reduced Volkhov font and only embedded normal weight. Now fonts load asynchronous and the package is 53kb lighter.
+:   Improved speed through the use of [webfontloader](http://github.com/typekit/webfontloader). Reduced Volkhov font and only embedded normal weight. Now fonts load asynchronous and the package is 53kb lighter.
 
 2014-12-21 // Version 0.92
 :   A new polished version, with a stronger and better color scheme. [Have a look ›]({{ site.url }}/design/grid/#color-scheme-and-colors-codes). Added foundation `.scss-files` to `assets/scss/` for savety.
@@ -98,7 +98,7 @@ permalink: "/changelog/"
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="http://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
@@ -106,11 +106,11 @@ permalink: "/changelog/"
 
  [1]: {{ site.url }}/blog/
  [2]: {{ site.url }}/blog/archive/
- [3]: https://foundation.zurb.com/docs/components/accordion.html
+ [3]: http://foundation.zurb.com/docs/components/accordion.html
  [4]: {{ site.url }}/design/gallery/
  [5]: {{ site.url }}/design/video/
- [6]: https://www.google.de/maps/place/Strandpaviljoen+Joep+B.V./@51.9960733,5.830135,6z/data=!4m2!3m1!1s0x47cf5918df69093b:0x7c11ab31102c1c8a
+ [6]: http://www.google.de/maps/place/Strandpaviljoen+Joep+B.V./@51.9960733,5.830135,6z/data=!4m2!3m1!1s0x47cf5918df69093b:0x7c11ab31102c1c8a
  [7]: fontcustom.com
- [8]: https://www.tawk.to
- [9]: https://github.com/jjamor
+ [8]: http://www.tawk.to
+ [9]: http://github.com/jjamor
  [10]: #
