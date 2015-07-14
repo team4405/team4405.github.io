@@ -1,58 +1,10 @@
-
-[![Start Video](http://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](http://www.youtube.com/embed/3b5zCFSmVvU)
-
-## A Responsive Jekyll Theme: *Feeling Responsive*
-
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
-
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
-
-And what license is *Feeling Responsive* released under? [This one][2].
+# Team 4405 Jekyll Website
 
 
 
-## Why use this theme?
+##Development
 
-Feeling Responsive is heavily customizable.
+To start the developments server:
+	'$ jekyll serve --config _config.yml,_config_dev.yml'
+and then navigate to [http://localhost:4000](http://localhost:4000)	
 
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](http://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](http://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-## Search
-
-'
-	<!--<div class="right">
-		<form action="/search" method="GET">
-		<input type="text" name="query" placeholder="Search...">
-		</form>	
-	</div>-->
-'
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: http://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: http://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
