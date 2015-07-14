@@ -88,6 +88,7 @@ permalink: "/donations/"
                 <div class="form-actions">
                     <button type="submit" class="btn btn-large btn-primary">Submit Donation Information</button>
                 </div>
+				<input type="hidden" name="_next" value="/donations" />
             </form>
       
 	</div><!-- /.medium-5.columns -->

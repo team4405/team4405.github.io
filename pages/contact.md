@@ -32,7 +32,7 @@ permalink: "/contact/"
 	  <div class="clearfix"></div>
 	  <div class="form-group col-lg-12">
 		<label for="input5">Subject</label>
-		<input type="text" name="contact_subject" class="form-control" id="input5">
+		<input type="text" name="_subject" class="form-control" id="input5">
 		</div>
 	  <div class="form-group col-lg-12">
 		<label for="input4">Message</label>
@@ -43,6 +43,7 @@ permalink: "/contact/"
 		<button type="submit" class="btn btn-primary">Submit</button>
 	  </div>
   </div>
+  <input type="hidden" name="_next" value="/contact" />
 </form>
 </div>
 <div class="medium-5 columns t30">
