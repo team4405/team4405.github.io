@@ -5,7 +5,9 @@
 This is the repository for Team 4405's website. It is written in Jekyll and then compiled and hosted on Github Pages. 
 
 ## Post Example
+
 '''
+
 ---
 layout: page
 subheadline:  "SUBHEADLINE"
@@ -23,7 +25,9 @@ image:
 ---
 
 The text of the post goes here. For more information on how to use Markdown, go to [markitdown.net/markdown](http://www.markitdown.net/markdown) and you can try it out on that page.
+
 '''
+
 ## Submissions
 
 If you are submitting a post, 
