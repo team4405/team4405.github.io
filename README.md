@@ -7,6 +7,7 @@ This is the repository for Team 4405's website. It is written in Jekyll and then
 ## Post Example
 
 '''markdown
+
 ---
 layout: page
 subheadline:  "SUBHEADLINE"
