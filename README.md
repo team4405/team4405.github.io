@@ -4,6 +4,16 @@
 
 This is the repository for Team 4405's website. It is written in Jekyll and then compiled and hosted on Github Pages. 
 
+## Submissions
+
+If you are submitting a post, use  the following template and fill in the information. Save the file in the format:
+
+```
+YYY-MM-DD-title-no-spaces.md
+```
+
+and email it so [software@team4405.com](mailto:software@team4405.com) and we will post it. Please attach any images and refer to them by the same file name in your post.
+
 ## Post Example
 
 ```
@@ -17,42 +27,22 @@ categories:
 tags:
     - TAG1
 header: no
-image:
-    title: IMAGE.jpg
-    caption: CAPTION
-    caption_url: CAPTION-LINK
 ---
 
 The text of the post goes here. For more information on how to use Markdown, go to [markitdown.net/markdown](http://www.markitdown.net/markdown) and you can try it out on that page.
 ```
+You can add this block just under `header: no` and before the `---` if you want a header image to go with your post
+```
+image:
+    title: IMAGE.jpg
+    caption: CAPTION
+    caption_url: CAPTION-LINK
+```
 
-## Submissions
+## Local Installation
 
-If you are submitting a post, 
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+To develop this site locally, first `git clone` this repo and make sure you have ruby and jekyll installed. You can then `cd` into this directory and run `$ jekyll serve --config _config.yml,_config_dev.yml` to start a local server and navigate to [http://localhost:4000](http://localhost:4000).
 
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
-
-##Development
-
-To start the developments server:
-	'$ jekyll serve --config _config.yml,_config_dev.yml'
-and then navigate to [http://localhost:4000](http://localhost:4000)	
-
