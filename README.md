@@ -18,10 +18,10 @@ and email it so [software@team4405.com](mailto:software@team4405.com) and we wil
 
 ```
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "SUBHEADLINE"
 title:  "TITLE"
-teaser: "PREVIEW"
+teaser: 'TEASER'
 categories:
     - CATEGORY1
 tags:
