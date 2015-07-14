@@ -15,7 +15,7 @@ permalink: "/contact/"
 <h3>Contact Us</h3>
 <p>Do you have any question, comments, or concerns? Fill out the form below and we will get back with you at our earliest convenience.</p>
 
-<form action="http://formspree.io/gmatson@live.com">
+<form action="http://formspree.io/gmatson@live.com" method="POST">
 	<div class="row">
 	  <div class="form-group col-lg-4">
 		<label for="input1">Name</label>

@@ -24,7 +24,7 @@ permalink: "/donations/"
 
 	<div class="medium-5 columns t30">
 		<h2>Donation Information</h2>
-		<form action="http://formspree.io/gmatson@live.com">
+		<form action="http://formspree.io/gmatson@live.com" method="POST">
                 <div class="row">
                 <div class="form-group col-lg-8">
                     <label for="name" class="control-label">
