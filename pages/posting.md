@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Posting Instructions"
+title: "Post to the Blog"
 subheadline: ""
 show_meta: false
 teaser: ''
@@ -38,6 +38,15 @@ permalink: "/posting/"
   <label class="col-md-4 control-label" for="subheadline">Subheadline</label>  
   <div class="col-md-4">
   <input id="subheadline" name="subheadline" type="text" placeholder="Subtitle for you Post" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="author">Your Name</label>  
+  <div class="col-md-4">
+  <input id="author" name="author" type="text" placeholder="First Name" class="form-control input-md">
     
   </div>
 </div>
