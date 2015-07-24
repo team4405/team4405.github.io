@@ -6,39 +6,127 @@ show_meta: false
 teaser: ''
 permalink: "/posting/"
 ---
-## Submissions
 
-If you are submitting a post, use  the following template and fill in the fields that are in all caps. Save the file in the format:
+<script src="//cdn.ckeditor.com/4.5.1/standard/ckeditor.js"></script>
 
-```
-YYYY-MM-DD-title-no-spaces.md
-```
+<form class="form-horizontal" action="http://formspree.io/gmatson@live.com" method="POST">
+<fieldset>
 
-and email it so [software@team4405.com](mailto:software@team4405.com) and we will post it. Please attach any images and refer to them by the same file name in your post.
+<!-- Form Name -->
+<legend>Submit a Post</legend>
 
-## Post Template
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="title">Title</label>  
+  <div class="col-md-4">
+  <input id="title" name="title" type="text" placeholder="Post Title" class="form-control input-md" required="">
+    
+  </div>
+</div>
 
-	---
-	layout: page-fullwidth
-	subheadline:  "SUBHEADLINE"
-	title:  "TITLE"
-	teaser: 'TEASER'
-	categories:
-		- CATEGORY1
-	tags:
-		- TAG1
-	header: no
-	---
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="teaser">Teaser</label>  
+  <div class="col-md-6">
+  <input id="teaser" name="teaser" type="text" placeholder="Short Intro to your Post" class="form-control input-md">
+    
+  </div>
+</div>
 
-	The text of the post goes here.
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="subheadline">Subheadline</label>  
+  <div class="col-md-4">
+  <input id="subheadline" name="subheadline" type="text" placeholder="Subtitle for you Post" class="form-control input-md">
+    
+  </div>
+</div>
 
-For more information on how to use Markdown, go to [markitdown.net/markdown](http://www.markitdown.net/markdown) and you can try it out on that page.
+<!-- Select Basic -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="catagories">Slelct a Category</label>
+  <div class="col-md-4">
+    <select id="catagories" name="catagories" class="form-control">
+      <option value="championship">Championship</option>
+      <option value="event">Event</option>
+      <option value="announcement">Announcement</option>
+      <option value="technical">Technical</option>
+    </select>
+  </div>
+</div>
 
-You can add this block just under `header: no` and before the `---` if you want a header image to go with your post:
+<!-- Select Multiple -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="tags">Choose your Tags</label>
+  <div class="col-md-4">
+    <select id="tags" name="tags" class="form-control" multiple="multiple">
+      <option value="announcement">Announcement</option>
+      <option value="district">District</option>
+      <option value="championship">Championship</option>
+      <option value="mechanical">Mechanical</option>
+      <option value="electrical">Electrical</option>
+      <option value="software">Software</option>
+    </select>
+  </div>
+</div>
 
-	image:
-		title: IMAGE.jpg
-		caption: CAPTION
-		caption_url: CAPTION-LINK
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="post">Blog Post</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" name="post" id="post" rows="10" cols="80">post text here...</textarea>
+  </div>
+</div>
 
-Otherwise, if you delete the `header: no` then you will get our logo on the top of you post, like this page.
+<!-- Multiple Checkboxes (inline) -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="header-image">Do you want a header image?</label>
+  <div class="col-md-4">
+    <label class="checkbox-inline" for="header-image-0">
+      <input type="checkbox" name="header-image" id="header-image-0" value="yes">
+      Yes
+    </label>
+  </div>
+</div>
+
+<!-- File Button --> 
+<div class="form-group">
+  <label class="col-md-4 control-label" for="image">Header Image Upload</label>
+  <div class="col-md-4">
+    <input id="image" name="image" class="input-file" type="file">
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="image-caption">Header Image Caption</label>  
+  <div class="col-md-4">
+  <input id="image-caption" name="image-caption" type="text" placeholder="caption" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="caption-link">Caption URL</label>  
+  <div class="col-md-4">
+  <input id="caption-link" name="caption-link" type="text" placeholder="http://" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for=""></label>
+  <div class="col-md-4">
+    <button id="" name="" class="btn btn-success">Submit</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
+<script>
+	// Replace the <textarea id="editor1"> with a CKEditor
+	// instance, using default configuration.
+	CKEDITOR.replace( 'post' );
+</script>
