@@ -133,7 +133,5 @@ permalink: "/posting/"
 </div>
 
 </fieldset>
+<input type="hidden" name="_next" value="" />
 </form>
-<script>
-	CKEDITOR.replace( 'post' );
-</script>
