@@ -8,6 +8,10 @@ prose:
         field:
           element: "hidden"
           value: "page-fullwidth"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
       - name: "show_meta"
         field:
           element: "hidden"
@@ -53,6 +57,8 @@ prose:
           options:
             - name: "Events"
               value: "events"
+            - name: "Announcement"
+              value: "announcement"
             - name: "States"
               value: "states"
             - name: "District"
