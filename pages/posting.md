@@ -8,7 +8,7 @@ permalink: "/posting/"
 ---
 ## Submissions
 
-If you are submitting a post, use  the following template and fill in the information. Save the file in the format:
+If you are submitting a post, use  the following template and fill in the fields that are in all caps. Save the file in the format:
 
 ```
 YYYY-MM-DD-title-no-spaces.md
