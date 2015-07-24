@@ -10,8 +10,9 @@ prose:
           value: "page-fullwidth"
       - name: "published"
         field:
-          element: "hidden"
-          value: "true"
+          element: "checkbox"
+          label: "Published"
+          value: true
       - name: "show_meta"
         field:
           element: "hidden"
