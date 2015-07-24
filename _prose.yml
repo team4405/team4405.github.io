@@ -21,7 +21,7 @@ prose:
         field:
           element: "hidden"
           value: "no"
-      - name: "category"
+      - name: "categories"
         field:
           element: "select"
           label: "Category"
@@ -44,6 +44,11 @@ prose:
         field:
           element: "textarea"
           label: "Subheadline"
+          value: ""
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "Teaser"
           value: ""
       - name: "author"
         field:
