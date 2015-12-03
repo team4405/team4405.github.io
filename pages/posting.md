@@ -7,6 +7,22 @@ teaser: ''
 permalink: "/posting/"
 ---
 
+
+
+##Method 1: Regular Poster
+
+If you think you will be a regular poster here, then please follow this method as you will be able to do all of this yourself and readily access your previous posts and make new ones. 
+
+In order to post to the blog, you first need to have a github account and be added as a member of the team4405 organization by one of the administrators. Once you are added, go to [prose.io](http://prose.io/) and click "Authorize on Github." This may ask you to log in to your github account, but once you are in, you will then see a list of all you github repositories. Click on "team4405.github.io" and there you will see a list of all the posts on the blog. You can click the "New File" button to create a new post. 
+
+When you are finished writing your post, on the right hand side of the page, click "save", and then click on "Meta Data." Here you can enter some detail about your post such as who wrote it and a Title and Subtitle. If you are are ready for the world to see it, check the box that says "Published" and your post will be put on the website in a few moments. 
+
+##Method 2: Feature Article
+
+If you are not a regular poster to the blog or are writing a feature article, please use this method.
+
+To get your post to the blog, simply fill out the form below and we will post it for you. If the form doesn't work, please just send all of the information that the form asks you in an email to [software@team4405.com](mailto:software@team4405.com) and we will get back with you. 
+
 <script src="http://cdn.ckeditor.com/4.5.1/standard/ckeditor.js"></script>
 
 <form class="form-horizontal" action="http://formspree.io/gmatson@live.com" method="POST">
