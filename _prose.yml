@@ -12,7 +12,7 @@ prose:
         field:
           element: "checkbox"
           label: "Published"
-          value: true
+          value: false
       - name: "show_meta"
         field:
           element: "hidden"
