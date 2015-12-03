@@ -25,7 +25,7 @@ To get your post to the blog, simply fill out the form below and we will post it
 
 <script src="http://cdn.ckeditor.com/4.5.1/standard/ckeditor.js"></script>
 
-<form class="form-horizontal" action="http://formspree.io/gmatson@live.com" method="POST">
+<form class="form-horizontal" action="http://formspree.io/software@team4405.com" method="POST">
 <fieldset>
 
 <!-- Form Name -->
@@ -149,5 +149,6 @@ To get your post to the blog, simply fill out the form below and we will post it
 </div>
 
 </fieldset>
-<input type="hidden" name="_next" value="" />
+<input type="hidden" name="_next" value="#" />
+<input type="hidden" name="_subject" value="New Blog Post from Team4405.com!" />
 </form>
