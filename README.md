@@ -29,8 +29,10 @@ tags:
 header: no
 ---
 
-The text of the post goes here. For more information on how to use Markdown, go to [markitdown.net/markdown](http://www.markitdown.net/markdown) and you can try it out on that page.
+The text of the post goes here.
 ```
+For more information on how to use Markdown, go to [markitdown.net/markdown](http://www.markitdown.net/markdown) and you can try it out on that page.
+
 You can add this block just under `header: no` and before the `---` if you want a header image to go with your post
 ```
 image:

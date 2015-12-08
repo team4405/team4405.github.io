@@ -1,0 +1,79 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://team4405.github.io'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page-fullwidth"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+      - name: "show_meta"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "header"
+        field:
+          element: "hidden"
+          value: "no"
+      - name: "categories"
+        field:
+          element: "select"
+          label: "Category"
+          placeholder: "Choose Category"
+          options:
+            - name: "Championship"
+              value: "championship"
+            - name: "Event"
+              value: "Event"
+            - name: "Announcement"
+              value: "announcement"
+            - name: "Technical"
+              value: "technical"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "subheadline"
+        field:
+          element: "textarea"
+          label: "Subheadline"
+          value: ""
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "Teaser"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Your First Name (lower case)"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Events"
+              value: "events"
+            - name: "Announcement"
+              value: "announcement"
+            - name: "States"
+              value: "states"
+            - name: "District"
+              value: "district"
+            - name: "Championship"
+              value: "championship"
+            - name: "Mechanical"
+              value: "mechanical"
+            - name: "Electrical"
+              value: "electrical"
+            - name: "Software"
+              value: "software"
