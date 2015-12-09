@@ -43,6 +43,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: Documentation
+  url: "/docs/"
+  side: left
+
 - title: "Contact"
   url: "/contact/"
   side: right
