@@ -32,9 +32,10 @@ widget-3:
         <h2>Competitions</h2>
 		<p>If you would like to see what your contributions and support helped us accomplish, we 			would love to see you at one of our competitions! We will be competing at:</p>
 		<ul>
-			<li>Woodhaven High School on March 12-14, 2015</li>
-			<li>Churchill High School in Livonia on March 26-28, 2015</li>
-			<li>And hopefully, the Michigan State Championships on April 8-11, 2015</li>
+			<li>Churchill High School on March 24-26, 2016</li>
+			<li>Woodhaven High School in Livonia on April 7-9, 2016</li>
+			<li>Michigan State Championships on April 13-16, 2016</li>
+			<li>And hopefully we will return to the World Championships on April 27-30, 2016</li>
 		</ul>
 		<p>For more information, go to <a href="http://www.firstinmichigan.com/">www.firstinmichigan.com</a>.</p>
 		<p> <a class="button tiny radius" href="schedule">More ›</a></p>
