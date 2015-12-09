@@ -11,7 +11,7 @@ header:
 widget-1:
     title: "We Are Team 4405 The Atoms Family!"
     url: 'about'
-    text: 'We are a growing team from Plymouth Christian Academy. The 2016 Season will be our fifth of competition. This year we are looking forward to making it to the State Championship, and hopefully returning to the World Championships in St. Louis! Read more about us at our about page.'
+    text: 'We are a growing team from Plymouth Christian Academy. The 2016 Season will be our fifth of competition. This year we are looking forward to making it to the State Championship, and hopefully returning to the World Championships in St. Louis! Read more on our about page.'
     image: gov-snyder-w-team.jpg
 widget-2:
     title: "Partnering With Us"
