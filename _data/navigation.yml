@@ -34,7 +34,7 @@
   - title: "Github"
     url: "http://github.com/team4405"
   - title: "Documentation"
-  	url: "/docs/"
+    url: "/docs/"
 
 - title: Blog
   url: "/blog/"
