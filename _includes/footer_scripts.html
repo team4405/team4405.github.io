@@ -48,10 +48,9 @@ s0.parentNode.insertBefore(s1,s0);
 <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/slick/slick.min.js"></script>
 <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/js/search.js"></script>
 <script type="text/javascript">
-$('.sponsors').slick({
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 4000
-});
+    $('.sponsors').slick({
+      infinite: true,
+      slidesToShow: 3,
+      slidesToScroll: 3
+    });
 </script>
