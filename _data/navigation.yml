@@ -6,7 +6,7 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "About Us"
+  - title: "About"
     url: "/about/"
   - title: "About FRC"
     url: "/about-frc/"
