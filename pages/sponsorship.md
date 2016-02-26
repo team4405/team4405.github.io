@@ -8,7 +8,7 @@ permalink: "/sponsorship/"
 ---
 ##Partnering With Us
 
-In order to continue our success, we need partners in the community for the 2014 season. The FIRST basic kit of parts is $5,000 and that is only the half of our budget. We have to plan for the added cost of materials, custom made parts, marketing/promotional items (t-shirts, banner, brochure printing, website, etc.), and transportation. Funding is our main priority for now, but anything you can contribute is greatly appreciated.
+In order to continue our success, we need partners in the community for the 2016 season. The FIRST basic kit of parts is $5,000 and that is only the half of our budget. We have to plan for the added cost of materials, custom made parts, marketing/promotional items (t-shirts, banner, brochure printing, website, etc.), and transportation. Funding is our main priority for now, but anything you can contribute is greatly appreciated.
 
 ##Our Sponsorship Details
 
