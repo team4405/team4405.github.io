@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Sponsorship"
 subheadline: "How You can Help"
 show_meta: false
-teaser: "In order to continue our success, we need your help! We need partners in our community to help us to succeed for the upcoming season. If you could help us out, read below learn the different ways you can help."
+teaser: "In order to continue our success, we need your help! We need partners in our community to help us to succeed for the 2016 season. If you could help us out, read below learn the different ways you can help."
 permalink: "/sponsorship/"
 ---
 ##Partnering With Us
