@@ -35,7 +35,7 @@ permalink: "/schedule/"
 		<tr class="even">
 			<td><a href="http://www.firstinspires.org/team-event-search/event?id=17443">Woodhaven District Event</a></td>
 			<td><a href="https://www.google.com/maps/search/Woodhaven+High+School+24787+Van+Horn+Road+Brownstown,+MI+48134+USA/@42.1223108,-83.2738915,17z/data=!3m1!4b1">Woodhaven High School</a></td>
-			<td>March 10-12, 2015</td>
+			<td>April 7-9, 2016</td>
 		</tr>
 		<tr class="odd">
 			<td><a href="#">Michigan State Championship</a></td>
