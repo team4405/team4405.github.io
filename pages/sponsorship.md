@@ -16,7 +16,7 @@ All the Sponsors names will be announced at the competitions. We are proud to pr
 
 *Items/materials will be categorized as far as possible based on our cost of similar item/materials, but the final decision is up to us.
 
-**For logo and company name placement, payment is required by January 15, 2014
+**For logo and company name placement, payment is required by February 29, 2016
 
 <div class="price-chart">
     <div class="attr-col">
