@@ -16,7 +16,7 @@ widget-1:
 widget-2:
     title: "Partnering With Us"
     url: 'sponsorship'
-    text: 'In order to continue our success, we need your help! We need partners in our community to help us to succeed for the 2016 season. If you could help us out, head over to our contact page or oursponsorship page and about learn the different ways you can help.'
+    text: 'In order to continue our success, we need your help! We need partners in our community to help us to succeed for this season. If you could help us out, head over to our contact page or oursponsorship page and about learn the different ways you can help.'
     image: Handshake.jpg
 widget-3:
     title: "About FRC"
