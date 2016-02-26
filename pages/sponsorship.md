@@ -6,11 +6,11 @@ show_meta: false
 teaser: "In order to continue our success, we need your help! We need partners in our community to help us to succeed for the 2016 season. If you could help us out, read below learn the different ways you can help."
 permalink: "/sponsorship/"
 ---
-##Partnering With Us
+Partnering With Us
 
 In order to continue our success, we need partners in the community for the 2016 season. The FIRST basic kit of parts is $5,000 and that is only the half of our budget. We have to plan for the added cost of materials, custom made parts, marketing/promotional items (t-shirts, banner, brochure printing, website, etc.), and transportation. Funding is our main priority for now, but anything you can contribute is greatly appreciated.
 
-##Our Sponsorship Details
+Our Sponsorship Details
 
 All the Sponsors names will be announced at the competitions. We are proud to promote our partners based on the amount of your contribution or value of items/materials donated*.
 
