@@ -21,7 +21,7 @@ description: "»The Atoms Family is an FRC team located in Canton, MI, which str
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://team4405.com"
+url: "http://team4405.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,8 +34,8 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://team4405.com/images/"
-
+urlimg: "http://team4405.github.io/images/"
+K
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
